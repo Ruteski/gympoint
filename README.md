@@ -44,10 +44,16 @@ docker run --name <imageName> -p 6379:6379 -d -t redis:alpine
 # Instale a imagem do Postgres (Se você não especificar um nome de usuario, por padrão será postgres)
 docker run --name <imageName> -e POSTGRES_PASSWORD=yourPassword -p 5432:5432 -d postgres
 
+# Instale a imagem do MongoDb
+ docker run --name <imageName> -p 27017:27017 -d -t mongo 
+
 # iniciar o Redis
 docker start <imageName>
 
 # iniciar o Postgres
+docker start <imageName>
+
+# iniciar o MongoDb
 docker start <imageName>
 
 # ou rode o comando que encontra-se dentro do backend
