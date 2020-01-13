@@ -33,7 +33,7 @@
 
 ## :information_source: Como rodar a aplicação localmente
 ### Requerimentos
-Para rodar este projeto você irá precisar: [Git](https://git-scm.com), [Node.js](https://nodejs.org/) v10.15.3 or higher, [Yarn](https://yarnpkg.com/), [PostgreSQL](https://www.postgresql.org/) and [Redis](https://redis.io/) instalados em seu computador. Recomendo usar [Docker](https://www.docker.com/) para rodar seus bancos de dados.
+Para rodar este projeto você irá precisar: [Git](https://git-scm.com), [Node.js](https://nodejs.org/) v10.15.3 or higher, [Yarn](https://yarnpkg.com/), [PostgreSQL](https://www.postgresql.org/), [MongoDb](https://www.mongodb.com/) and [Redis](https://redis.io/) instalados em seu computador. Recomendo usar [Docker](https://www.docker.com/) para rodar seus bancos de dados.
 <br>
 Caso opte pelo docker, siga esses passos para instalar o docker e rodar as imagens.
 
