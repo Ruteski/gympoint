@@ -119,4 +119,4 @@ Este projeto está sob a licença MIT. Veja o [LICENÇA](https://github.com/Rute
 [LinkedIn](https://www.linkedin.com/in/lincoln-ruteski-08a57b26/)
 
 
-Readme créditado ao [Stephano](https://github.com/StefanoSaffran) .
+Readme creditado ao [Stephano](https://github.com/StefanoSaffran) .
