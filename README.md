@@ -117,3 +117,6 @@ Este projeto está sob a licença MIT. Veja o [LICENÇA](https://github.com/Rute
 ## :mailbox_with_mail: Entre em contato em:
 
 [LinkedIn](https://www.linkedin.com/in/lincoln-ruteski-08a57b26/)
+
+
+Readme créditado ao [Stephano](https://github.com/StefanoSaffran) .
